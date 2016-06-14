@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hank Quinlan, Horrible Cop, Launches Site'
-date: {}
+date: 2014-04-30
 published: true
 ---
 ![me.jpg]({{site.baseurl}}/_posts/me.jpg)
