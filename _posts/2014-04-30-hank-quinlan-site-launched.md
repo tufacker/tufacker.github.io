@@ -6,7 +6,7 @@ published: true
 ---
 ![me.jpg]({{site.baseurl}}/_posts/me.jpg)
 
-Well. **Finally** got around to putting this old 
+Well. **Finally** got around t o putting this old 
 
 ## website
 
