@@ -2,3 +2,18 @@ title: "Remote theme example"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: true
+
+collections:
+  Cars:
+    permalink: "/:collection/:path/"
+    output: true
+  Computers:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    Cars:
+      name: Cars
+    Computers:
+      name: Computers
