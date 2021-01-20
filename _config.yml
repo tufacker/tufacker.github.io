@@ -4,16 +4,16 @@ color_scheme: "light"
 search_enabled: true
 
 collections:
-  Cars:
+  cars:
     permalink: "/:collection/:path/"
     output: true
-  Computers:
+  computers:
     permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
   collections:
-    Cars:
+    cars:
       name: Cars
-    Computers:
+    computers:
       name: Computers
