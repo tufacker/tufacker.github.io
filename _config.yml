@@ -53,3 +53,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  cars:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    cars:
+      name: Karz
