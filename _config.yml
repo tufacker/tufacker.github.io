@@ -5,6 +5,7 @@ search_enabled: true
 
 collections:
   cars:
+    permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
