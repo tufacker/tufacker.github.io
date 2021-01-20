@@ -5,7 +5,7 @@ search_enabled: true
 
 collections:
   cars:
-    permalink: "/:collection/:path/"
+    permalink: "/cars/:path/"
     output: true
   computers:
     permalink: "/:collection/:path/"
