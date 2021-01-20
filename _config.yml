@@ -6,3 +6,8 @@ search_enabled: true
 collections:
   cars:
     output: true
+
+just_the_docs:
+  collections:
+    cars:
+      name: Karz
