@@ -4,8 +4,8 @@ color_scheme: "light"
 search_enabled: true
 
 collections:
-  - cars
-  - computers
+  cars:
+    output: true
 
 just_the_docs:
   collections:
