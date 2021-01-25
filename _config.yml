@@ -270,7 +270,7 @@ compress_html:
     envs: development
 
 # Collections
-collections_dir: collections
+collections_dir: "unretro"
 collections:
   computers:
     output: true
