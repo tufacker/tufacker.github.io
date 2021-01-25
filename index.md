@@ -4,6 +4,7 @@
 
 layout: home
 title: Home
+author_profile: true
 ---
 ## The future, again
 
