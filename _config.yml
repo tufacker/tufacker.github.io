@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "unretro"
 title_separator          : "-"
 subtitle                 : "The future, again."
-name                     : "Tuf"
+name                     : "Me"
 description              : "The future, again."
 url                      : "https://unretro.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tuf"
+  name             : "Me"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Can I get rid of this?"
+  bio              : "This is a bio."
   location         : "Somewhere"
-  email            : "tuf@tuf.net"
+  email            : "me@me.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
