@@ -26,3 +26,81 @@ foo:
         url: /child-2-page-url/
       - title: "Child Link 3"
         url: /child-3-page-url/
+
+# Main site links
+# documentation links
+site:
+  - title: Cars
+    children:
+      - title: "BMW E39 M5"
+        url: /cars/m5/
+      - title: "BMW E46 M3"
+        url: /cars/m3/
+      - title: "Porsche 997.2 Turbo"
+        url: /cars/911/
+  - title: Computers
+    children:
+      - title: "Amiga"
+        url: /computers/amiga/
+      - title: "Apple II"
+        url: /computers/apple2/
+      - title: "Atari 8 Bit"
+        url: /computers/atari8/
+      - title: "Atari ST"
+        url: /computers/atarist/
+      - title: "Commodore"
+        url: /computers/commodore/
+      - title: "Macintosh"
+        url: /computers/mac/
+      - title: "PC"
+        url: /computers/pc/
+      - title: "TI99-4/A"
+        url: /computers/ti994a/
+      - title: "TRS-80"
+        url: /computers/trs80/
+  - title: Electronics
+    children:
+      - title: "Magnetic Tape"
+        url: /electronics/tape/
+  - title: Gaming
+    children:
+      - title: "Arcade"
+        url: /gaming/arcade/
+      - title: "Atari"
+        url: /gaming/atari/
+      - title: "PC"
+        url: /gaming/pc/
+      - title: "Emulation"
+        url: /gaming/emulation/
+      - title: "Macintosh"
+        url: /gaming/mac/
+      - title: "MiSTer"
+        url: /gaming/mister/
+      - title: "Nintendo"
+        url: /gaming/nintendo/
+      - title: "RetroPie"
+        url: /gaming/pie/
+      - title: "Playstation"
+        url: /gaming/ps/
+      - title: "Vectrex"
+        url: /gaming/vectrex/
+      - title: "XBox"
+        url: /gaming/xbox/
+  - title: Extras
+    children:
+      - title: "Stylesheets"
+        url: /docs/stylesheets/
+      - title: "JavaScript"
+        url: /docs/javascript/
+  - title: Meta
+    children:
+      - title: "History"
+        url: /docs/history/
+      - title: "Contributing"
+        url: /docs/contributing/
+      - title: "Old 2.2 Docs"
+        url: /docs/docs-2-2/
+      - title: "License"
+        url: /docs/license/
+      - title: "Terms &amp; Privacy Policy"
+        url: /terms/

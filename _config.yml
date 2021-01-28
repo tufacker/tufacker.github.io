@@ -306,8 +306,8 @@ defaults:
       author_profile: false
       share: false
       comments: false
-      sidebar:
-        nav: "foo"
+      # sidebar:
+      #   nav: "foo"
   # _recipes
   - scope:
       path: ""

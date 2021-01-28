@@ -5,6 +5,8 @@
 layout: home
 title: Home
 author_profile: true
+sidebar:
+   nav: "site"
 ---
 ## The future, again
 
